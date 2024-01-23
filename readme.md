@@ -1,1 +1,1 @@
-This is an readme file.
+LittleLemonDB Capstone Project for Meta's Database Engineering Certificate.
